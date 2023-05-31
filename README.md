@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🦬 Currently working as an equity research associate covering enterprise software and digital assets
-🎓 Third-year philosophy student @ University of Oregon
-🧩 Passionate about machine learning and artificial intelligence
+🦬 Currently working as an equity research associate covering enterprise software and digital assets <br />
+🎓 Third-year philosophy student @ University of Oregon <br />
+🧩 Passionate about machine learning and artificial intelligence <br />
 🚀 Reach out to me on twitter @alexxplatt
 <!--
 **alexplatt/alexplatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
