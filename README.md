@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🦬 Currently working as an equity research associate covering enterprise software and digital assets <br />
-🎓 Third-year philosophy student @ University of Oregon <br />
+🦬 Researching emerging technologies @ D.A. Davidson <br />
+🎓 Cognitive Science and Philosophy @ University of Oregon <br />
 🧩 Passionate about machine learning and artificial intelligence <br />
 🚀 Reach out to me on twitter @alexxplatt
 <!--
