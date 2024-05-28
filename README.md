@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hey there 👋
 
 🦬 Researching emerging technologies @ D.A. Davidson <br />
-🎓 Cognitive Science and Philosophy @ University of Oregon <br />
-🧩 Passionate about machine learning and artificial intelligence <br />
-🚀 Reach out to me on twitter @alexxplatt
+🎓 Cognitive science and philosophy undergrad @ University of Oregon <br />
+🧩 Currently interested in learning about artificial intelligence and chaos theory <br />
 <!--
 **alexplatt/alexplatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
